@@ -1,6 +1,6 @@
 ## SteerMouse Mac Single License
 
-<img src="https://static.macupdate.com/products/19058/l/steermouse-logo.png?v=1670486274" width="200" alt="App icon" align="left"/>
+<img src="https://sc.filehippo.net/images/t_app-icon-l/p/084af576-9b31-11e6-b36b-00163ed833e7/2965775861/steermouse-logo" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>SteerMouse for macOS</h3>
@@ -15,7 +15,7 @@
 <div align="center">
 
 <a href="#"><img src="https://img.shields.io/badge/downloads-1.9k-brightgreen?style=flat" alt="downloads"/></a>
-<a href="#"><img src="https://img.shields.io-badge/version-4.0-blue?style=flat" alt="version"/></a>
+<a href="#"><img src="https://img.shields.io/badge/version-4.0-blue?style=flat" alt="version"/></a>
 <a href="#"><img src="https://img.shields.io/badge/license-Single%20License-lightgrey?style=flat" alt="license"/></a>
 <a href="#"><img src="https://img.shields.io/badge/platform-macOS-blue?style=flat" alt="platform"/></a>
 
